@@ -1,7 +1,8 @@
 # Development-Board
 This was a board I made in my Digital Logic Systems Lab for class. It was a introduction to how to design a board on Eagle, circuit desigm, soldering, and everything that comes with building an electronic part. I learned a lot from this project and it gave me a lot of insight into the building process of a engineer!
 
-Bill of Materials
+
+##Bill of Materials
 |  Quantity  |  Part Number   | Reference Designator |              Description           |
 |  --------- | -------------- | -------------------- | ---------------------------------- |
 |      4     |   1825910-7    |    S5, S6, S7, S8    |         Tactile Pushbutton         |
